@@ -1,0 +1,14 @@
+.book-item {  
+    cursor: pointer;
+    text-align: center;
+    text-overflow: ellipsis;
+    margin: 20px;
+}
+
+.book-image {
+    width: auto;
+    max-height: 200px;
+}
+
+.book-name {
+}

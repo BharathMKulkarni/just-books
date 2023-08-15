@@ -1,0 +1,9 @@
+<h1>Books</h1>
+<input [(ngModel)]="textField" placeholder="Search for Books"/>
+<p>{{textField}}</p>
+<button (click)="toggleBooks()">{{showBooksBtnTitle}}</button>
+<ul *ngIf="showBooks" class="book-list-items">
+  <ng-container *ngFor="let singleBook of books; index as i">
+    <app-book [book] = "singleBook" (emitBook)="addBooktoCart($event)"></app-book>
+  </ng-container>
+</ul>

@@ -1,0 +1,25 @@
+[debug] [2023-08-15T17:10:11.193Z] ----------------------------------------------------------------------
+[debug] [2023-08-15T17:10:11.196Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\kulkbha\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-08-15T17:10:11.197Z] CLI Version:   12.4.7
+[debug] [2023-08-15T17:10:11.198Z] Platform:      win32
+[debug] [2023-08-15T17:10:11.198Z] Node Version:  v18.17.0
+[debug] [2023-08-15T17:10:11.201Z] Time:          Tue Aug 15 2023 22:40:11 GMT+0530 (India Standard Time)
+[debug] [2023-08-15T17:10:11.201Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-08-15T17:10:11.226Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-08-15T17:10:11.227Z] > authorizing via signed-in user (bharathmkulkarni@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Nebula\abhyasa\just-books
+
+Before we get started, keep in mind:
+
+  * You are currently outside your home directory
+
